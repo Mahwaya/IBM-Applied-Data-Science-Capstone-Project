@@ -1,6 +1,5 @@
-# IBM-Applied-Data-Science-Capstone-Project
-
 # IBM Data Science Capstone - SpaceX Falcon 9 First Stage Landing Prediction
+
 # Introduction
 SpaceX, a leader in the space industry, has revolutionized space travel with reusable rocket technology, specifically the first stage of the Falcon 9 rocket. By predicting whether the Falcon 9 first stage will land successfully, we can estimate the cost of launches more accurately. This project focuses on using machine learning models to predict the success of these landings based on key features such as payload mass, launch site, and orbit type.
 
@@ -42,5 +41,6 @@ Launch Success: Success rates have consistently improved, with specific sites li
 Orbits: Orbits such as ES-L1, GEO, HEO, and SSO had a 100% success rate.
 Payload Mass: Higher payloads were correlated with better landing outcomes, particularly for certain launch sites.
 Geography: Launch sites near the equator and coast provided a natural advantage, reducing fuel needs and boosting success rates.
+
 # Conclusion
 The decision tree model was the best predictor of landing success, though other models performed similarly. Insights from this analysis can help estimate launch costs and improve future predictions. With a larger dataset and further feature analysis, these models could become even more accurate, offering valuable information for competitive bidding in the space industry.
