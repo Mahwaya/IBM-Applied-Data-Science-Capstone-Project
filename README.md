@@ -1,5 +1,8 @@
 # IBM Data Science Capstone - SpaceX Falcon 9 First Stage Landing Prediction
 
+![image](https://github.com/user-attachments/assets/1ce611d7-0ab8-4cd2-bf4c-b3148f8ea992)
+
+
 # Introduction
 SpaceX, a leader in the space industry, has revolutionized space travel with reusable rocket technology, specifically the first stage of the Falcon 9 rocket. By predicting whether the Falcon 9 first stage will land successfully, we can estimate the cost of launches more accurately. This project focuses on using machine learning models to predict the success of these landings based on key features such as payload mass, launch site, and orbit type.
 
